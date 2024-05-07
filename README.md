@@ -4,7 +4,8 @@
 
 <h2>Description</h2>
 
-My personal Port Scanner development using Python language
+Emotion Detection App.
+Detect Emotion Score based on Text.
 
 
 - <b>In this project:</b>
@@ -12,13 +13,13 @@ My personal Port Scanner development using Python language
 
 Python Programming.
 
-Creating scanner with personal Title name. 
+Unit Test. 
 
-Scanning machine ports.
+Deployment with Flask.
 
-Creating menu for scanning.
+Analyzing Code Score.
 
-Loading bars and etc.
+Delivery.
 
 <br />
 
@@ -32,38 +33,65 @@ Loading bars and etc.
 <h2>Environments Used </h2>
 
 
-- <b>Kali Linux</b> 
+- <b>Linux</b> 
 - <b>Oracle VM</b>
 
 <h2>Walk-through:</h2>
 
 <p align="center">
-Port Scanner CARNAGE: <br/>
-<img src="https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/Carnage%20Port%20Scanner.jpg"/>
+Folder Structure: <br/>
+<img src="https://github.com/Vlad774/Emotion-Detection/blob/main/Text%20Analyzer%20project/1_folder_structure.png"/>
 <br />
 <br />
-Menu for scanning:  <br/>
-<img src="https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/Menu.jpg"/>
+2a_emotion_detection.png:  <br/>
+<img src="https://github.com/Vlad774/Emotion-Detection/blob/main/Text%20Analyzer%20project/2a_emotion_detection.png"/>
 <br />
 <br />
-Loading Bar: <br/>
-<img src="https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/Loading%20Bar.jpg"/>
+2b_application_creation.png: <br/>
+<img src="https://github.com/Vlad774/Emotion-Detection/blob/main/Text%20Analyzer%20project/2b_application_creation.png"/>
 <br />
 <br />
-Open Ports:  <br/>
-<img src="https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/open%20ports.jpg"/>
+3a_output_formatting.png:  <br/>
+<img src="https://github.com/Vlad774/Emotion-Detection/blob/main/Text%20Analyzer%20project/3a_output_formatting.png"/>
 <br />
 <br />
-Python Script 1:  <br/>
-<img src="https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/Python_script_1.jpg"/>
+3b_formatted_output_test.png:  <br/>
+<img src="https://github.com/Vlad774/Emotion-Detection/blob/main/Text%20Analyzer%20project/3b_formatted_output_test.png"/>
 <br />
 <br />
-Python Script 2:  <br/>
-<img src="https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/Python_script_2.jpg"/>
+4a_packaging.png:  <br/>
+<img src="https://github.com/Vlad774/Emotion-Detection/blob/main/Text%20Analyzer%20project/4a_packaging.png"/>
 <br />
 <br />
-Python CODE:  <br/>
-<img src="https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/Carnage_v2.01.py"/>
+4b_packaging_test.png:  <br/>
+<img src="https://github.com/Vlad774/Emotion-Detection/blob/main/Text%20Analyzer%20project/4b_packaging_test.png"/>
+<br />
+<br />
+5a_unit_testing.png:  <br/>
+<img src="https://github.com/Vlad774/Emotion-Detection/blob/main/Text%20Analyzer%20project/5a_unit_testing.png"/>
+<br />
+<br />
+5b_unit_testing_result.png:  <br/>
+<img src="https://github.com/Vlad774/Emotion-Detection/blob/main/Text%20Analyzer%20project/5b_unit_testing_result.png"/>
+<br />
+<br />
+6a_server.png:  <br/>
+<img src="https://github.com/Vlad774/Emotion-Detection/blob/main/Text%20Analyzer%20project/5a_unit_testing.png"/>
+<br />
+<br />
+6b_deployment_test.png:  <br/>
+<img src="https://github.com/Vlad774/Emotion-Detection/blob/main/Text%20Analyzer%20project/6b_deployment_test.png"/>
+<br />
+<br />
+8a_server_modified.png:  <br/>
+<img src="https://github.com/Vlad774/Emotion-Detection/blob/main/Text%20Analyzer%20project/8a_server_modified.png"/>
+<br />
+<br />
+8b_static_code_analysis.png:  <br/>
+<img src="https://github.com/Vlad774/Emotion-Detection/blob/main/Text%20Analyzer%20project/8b_static_code_analysis.png"/>
+<br />
+
+
 
 </p>
 
